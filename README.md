@@ -1,7 +1,6 @@
 ### Hi there WhaleFall
 ### 🤔欢迎来到蓝鲸落的项目主页丫
 ### 💬初三在校生/Python/QQ 2734184475
-### 不开心的就要说出来，我还是小孩子可以哭~😄
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdminWhaleFall)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
