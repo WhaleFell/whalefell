@@ -20,7 +20,7 @@
 
   就读于**佛山三中**，目前因**抑郁休学**窝在家（精神病院）当**小废物**。
   
-  <img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220102023708.jpg" style="zoom:33%" align='left' />
+  <!--<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220102023708.jpg" style="zoom:33%" align='left' />-->
   
 - 😄 **信条:** 
 
