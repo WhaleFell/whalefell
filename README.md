@@ -37,7 +37,7 @@
 
 - ### ⚡ **博客:** 
 
-  [https://skyxinye.xyz/](https://skyxinye.xyz/) **落落の博客**
+  [https://lskyl.xyz/](https://lskyl.xyz/) **落落の博客**
 
 - ### ❤ **其他平台：**
 
