@@ -54,7 +54,7 @@
 
 1. :man_scientist: **QQ：** **2734184475**
 
-   > **加时请备注：GitHub 来的+称呼，不然不过！** 在找男朋友，可以处对象，cpdd。
+   > **加时请备注：GitHub 来的+称呼，不然不过！**
 
 2. 💬 **Telegram: @whalefall**
 
