@@ -43,10 +43,6 @@
 
   **Gitee：** [https://gitee.com/whalefell/](https://gitee.com/whalefell/)
 
-- ### ✨ **最low的项目：**
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whalefell&repo=SMSBoom&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/adminwhalefall/SMSBoom)
-
 ---
 
 ## 联系我
