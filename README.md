@@ -4,7 +4,7 @@
 
 简体中文 | [English]()
 
-大家好呜~，我是**落落**，**06年**的卑微秃头**小可爱**，**高一在读**，嘤嘤嘤~。
+唔,这里是落落...
 
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" width="15%" hight="15%" align='right' />
 
@@ -18,26 +18,10 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whalefell&theme=dark&show_icons=true">](https://skyxinye.xyz)
 
-- ### :seedling: **现状：**
-
-  就读于 **岭南艺术高中**，躺平做咸鱼中。。
-  
-<!--
-
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220102023708.jpg" style="zoom:33%" align='left' />
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=adminwhalefall&theme=dark&show_icons=true">](https://skyxinye.xyz)
- <img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" width="10%" hight="10%" align='right' />
-
--->
-
-  
-- ### 😄 **信条:** 
-
-  **一鲸落，万物生。**
 
 - ### ⚡ **博客:** 
 
-  [https://lskyl.xyz/](https://lskyl.xyz/) **落落の博客**
+  [https://whaleluo.top/](https://lskyl.xyz/) **落落のBlog**
 
 - ### ❤ **其他平台：**
 
@@ -48,15 +32,7 @@
 ## 联系我
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" width="10%" hight="10%" align='right' />
 
-1. :man_scientist: **QQ：** **2734184475**
 
-   > **加时请备注：GitHub 来的+称呼，不然不过！**
+1. 💬 **Telegram: @whalefall**
 
-2. 💬 **Telegram: @whalefall**
-
-3. 📫 **Email:** whalefall9420@outlook.com | whalefall9420@qq.com
-
-4. 💨 **sky光遇国服：**（好友扫码先到先得支持互心互火做监护）
-
-   ![sky_get_friend](https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220102024602.jpg)
-
+2. 📫 **Email:** whalefall9420@outlook.com | whalefall9420@qq.com
